@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Gautam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="right "Coding" width="200" src"https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
+<img alt="right" "Coding" width="200" src"https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxrsh07&label=Profile%20views&color=0e75b6&style=flat" alt="hxrsh07" /> </p>
 
