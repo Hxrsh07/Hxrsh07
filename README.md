@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **C/C++ HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **C/C++ HTML,CSS,JAVASCRIPT,REACTJS,TAILWIND,SASS**
 
 - 📫 How to reach me **hxrsh07@gmail.com**
 
