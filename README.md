@@ -1,5 +1,7 @@
-# 💫 About Me:
 <h2 align="center">Hi 👋! My name is Harshit Gautam</h2>
+![Blue Geometric Technology LinkedIn Banner](https://github.com/Hxrsh07/Hxrsh07/assets/82574368/fb17c941-ba49-4962-bd7a-916b910e45ba)
+
+# 💫 About Me:
 🔭 I’m currently working on React JS<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Backend<br>💬 Ask me about C/C++ HTML,CSS,JAVASCRIPT,REACTJS,TAILWIND,SASS
 
 
