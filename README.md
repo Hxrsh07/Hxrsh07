@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Harshit Gautam</h2>
-<img height= "100" src="https://imgtr.ee/images/2023/07/14/20f3a854a65c8280b6e95ce16600d0d8.png" alt="20f3a854a65c8280b6e95ce16600d0d8.png" border="0">
+<img height= "250" src="https://imgtr.ee/images/2023/07/14/20f3a854a65c8280b6e95ce16600d0d8.png" alt="20f3a854a65c8280b6e95ce16600d0d8.png" border="0">
 
 # 💫 About Me:
 🔭 I’m currently working on React JS<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Backend<br>💬 Ask me about C/C++ HTML,CSS,JAVASCRIPT,REACTJS,TAILWIND,SASS
