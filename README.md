@@ -1,9 +1,15 @@
-
+<img width="100%" align="center" alt="bg Image" src="background.jpg" />
 <h2 align="center"> Hi there, I'm Harshit Gautam 👋</h2>  
 
 <p> A Software and Web developer 🎯 from India, currently working at Ultrapixel Infotech in Dubai. I am passionate about Full-Stack Web Development and enjoy building scalable, efficient, and user-focused digital solutions. My expertise spans both frontend and backend technologies, allowing me to develop robust applications from concept to deployment.</p>
 
-
+<img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
+<ul>
+  <li> 💬 Ask me about Full Stack Web Development | JavaScript |Cross-Platform App Development | GUI Based Applications | System Design   </li>
+  <li>💼 Resume: Check out my Resume at  : <a href="https://drive.google.com/file/d/1l1GlLyDDg8kXNyX_yfgbmoKeNXFsR4VE/view?usp=drive_link">Resume</a>  </li>
+   <li>💼 Portfolio: Check out my Portfolio at  : <a href="https://bento.me/prasun-das">Portfolio</a>  </li>
+  <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-gautam-aa09a71b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hxrsh07@gmail.com) 
