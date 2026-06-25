@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/386c6ed7-6cdd-473d-9629-5f3aa6ccde6a" /><img width="100%" align="center" alt="bg Image" src="background.png" />
+<img width="100%" align="center" alt="bg Image" src="background.png" />
 <h2 align="center"> Hi there, I'm Harshit Gautam 👋</h2>  
 
 <p> A Software and Web developer 🎯 from India, currently working at Ultrapixel Infotech in Dubai. I am passionate about Full-Stack Web Development and enjoy building scalable, efficient, and user-focused digital solutions. My expertise spans both frontend and backend technologies, allowing me to develop robust applications from concept to deployment.</p>
