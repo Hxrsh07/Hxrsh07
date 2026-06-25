@@ -6,8 +6,8 @@
 <img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
 <ul>
   <li> 💬 Ask me about Full Stack Web Development | JavaScript |Cross-Platform App Development | GUI Based Applications | System Design   </li>
-  <li>💼 Resume: Check out my Resume at  : <a href="#">Resume</a>  </li>
-   <li>💼 Portfolio: Check out my Portfolio at  : <a href="#">Portfolio</a>  </li>
+  <li>💼 Resume: Check out my Resume at  : <a href="https://drive.google.com/file/d/1ajRORqGM9Lr3gCszvgauaAzbXwyCS6XP/view?usp=sharing">Resume</a>  </li>
+   <li>💼 Portfolio: Check out my Portfolio at  : <a href="https://harshit-portfolio.framer.website/">Portfolio</a>  </li>
   <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
 </ul>
 
